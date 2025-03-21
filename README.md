@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development.
 - 🌱 I’m currently learning HTML,CSS & JavaScript
 - 💞️ I’m looking to collaborate on simple projects
-- 📫 How to reach me @julianayemy@gmail.com
+- 📫 How to reach me @julianayemmy@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love to  dance 
 
